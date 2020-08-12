@@ -3,7 +3,7 @@
 </p>
 
 This repository contains the whole <b>Wynncraft Original Sound Track</b>.<br>
-The Author for each song can be found in each file metadata.
+All tracks are in their respective Noteblock format.
 
 ## 🖌️ Featured Musicians
 The list of all musicians that contributed to the Wynncraft Original Sound Track
