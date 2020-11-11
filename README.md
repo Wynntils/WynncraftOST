@@ -23,6 +23,7 @@ Every song file contains in their metadata the following:
  * **Title:** The track Title
  * **Author:** The track Author(s)
  * **Album:** The track respective album (Wynn Province OST; Gavel Province OST; Corkus OST...)
+ * **Serial number (#):** For purposes of sorting the playlist when listening outside Wynncraft
  
 ## 🖥️ Applications
 A list of applications and how they use this repository
