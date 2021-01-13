@@ -109,7 +109,7 @@ Weirding - Boss Battle 9
 Dead Island
 Skien's Island
 The Last Stand - Boss Battle 8
-Corrupted Dungeons' Entrances (missing)
+Corrupted Dungeons' Entrances
 Corrupted Dungeons 1
 Cinfras Country
 Cinfras
@@ -124,7 +124,7 @@ Hive Floors
 Ozoth's Spire
 Thesead
 Bantisu Air Temple
-Death's Realm (missing)
+Death's Realm
 Corkus Docks
 Corkus City
 Corkus
@@ -135,7 +135,7 @@ Crystal Falls - Sakura Dojo
 Eltom
 Jofash Docks
 Into the Unknown
-Corrupted Dungeons 2 (missing)
+Corrupted Dungeons 2
 Molten Caverns
 Rodoroc
 Maex
@@ -161,4 +161,4 @@ Eldritch Outlook
 Genesis of the End - Boss Battle 12
 The Portal
 A Day to Remember - Boss Battle 13
-Silent Expanse Discovery (missing)
+Silent Expanse Discovery
