@@ -16,7 +16,7 @@ The list of all musicians that contributed to the Wynncraft Original Sound Track
  * <img src="https://minotar.net/helm/5f296089-ebcc-4106-85ce-db99adede960/16"> **abiswas** (3 original songs)
 
 List of musicians that contributed to the Wynntils Original Sound Track
- * <img src="https://minotar.net/helm/71925ed8-8542-4db6-b087-4edd4c021062/16"> **HeyZeer0** (2 original songs)
+ * <img src="https://minotar.net/helm/71925ed8-8542-4db6-b087-4edd4c021062/16"> **HeyZeer0** (3 original songs)
  
 ## 💾 File Metadata
 Every song file contains in their metadata the following:
