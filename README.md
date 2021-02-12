@@ -7,7 +7,7 @@ All tracks are in their respective Noteblock format.
 
 ## 🖌️ Featured Musicians
 The list of all musicians that contributed to the Wynncraft Original Sound Track
- * <img src="https://minotar.net/helm/2260e5e7-8b95-46bf-8cea-a5dc633d1eb4/16"> **XavierEXE** (59 original songs)
+ * <img src="https://minotar.net/helm/2260e5e7-8b95-46bf-8cea-a5dc633d1eb4/16"> **XavierEXE** (60 original songs)
  * <img src="https://minotar.net/helm/9c82f840-68fd-4cb7-b583-fa50db2b5653/16"> **Needlr** (46 original songs)
  * <img src="https://minotar.net/helm/1fd9f257-eb69-4ebf-b704-e4a0d5f42e95/16"> **Selvut283** (25 original songs)
  * <img src="https://minotar.net/helm/1ed075fc-5aa9-42e0-a29f-640326c1d80c/16"> **Salted** (14 original songs)
